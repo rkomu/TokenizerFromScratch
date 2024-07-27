@@ -1,0 +1,18 @@
+"Attention Is All You Need" is a 2017 landmark research paper authored by eight scientists working at Google, that introduced a new deep learning architecture known as the transformer based on attention mechanisms proposed by Bahdanau et al. in 2014. It is considered by some to be a founding paper for modern artificial intelligence, as transformers became the main architecture of large language models like those based on GPT. At the time, the focus of the research was on improving Seq2seq techniques for machine translation, but even in their paper the authors saw the potential for other tasks like question answering and for what is now called multimodal Generative AI.
+The paper's title is a reference to the song "All You Need Is Love" by the Beatles.
+As of 2024, the paper has been cited more than 100,000 times.
+
+
+== Authors ==
+The authors of the paper are: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan Gomez, Lukasz Kaiser, and Illia Polosukhin. All eight authors were "equal contributors" to the paper; the listed order was randomized. The Wired article highlights the group's diversity:
+
+Six of the eight authors were born outside the United States; the other two are children of two green-card-carrying Germans who were temporarily in California and a first-generation American whose family had fled persecution, respectively.
+
+By 2023, all eight authors had left Google and founded their own AI start-ups (except Łukasz Kaiser, who joined OpenAI).
+
+
+== References ==
+
+
+== External links ==
+Attention is All You Need at Google Research Publications.
